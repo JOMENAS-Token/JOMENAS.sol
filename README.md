@@ -18,3 +18,6 @@ JOMENAS is available for purchasing and trading on a growing number of exchanges
 Learn more about JOMENAS 
 Find all the information you need about JOMENAS (https://www.jomenas.org/jomenas-cryptcurrency.html) 
 
+#####General Information
+Contract Name:
+BSCScan BEP-20: https://bscscan.com/token/0xfdd08d7c5eacfa01e5228153e466e3d5db1d4e9f

@@ -14,9 +14,10 @@ Saleh decides with his team to establish JOMENAS Press website to publish resear
 JOMENAS is available for purchasing and trading on a growing number of exchanges, with cryptocurrency and [stablecoin](https://pancakeswap.finance/) pairs currently available.
 #### Related Pages:
 Learn more about JOMENAS 
-Find all the information you need about JOMENAS (https://www.jomenas.org/jomenas-cryptcurrency.html) 
+Find all the information you need about JOMENAS (https://www.jomenastoken.com) 
 
 #### Find JOMENAS on BSc Scan BEP-20: https://bscscan.com/token/0xfdd08d7c5eacfa01e5228153e466e3d5db1d4e9f
 #### Social Media:
-https://www.facebook.com/jomenas/;
-https://twitter.com/MENASciences
+https://twitter.com/JOMENASToken/;
+https://t.me/JOMENAS
+

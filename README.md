@@ -19,5 +19,6 @@ Find all the information you need about JOMENAS (https://www.jomenastoken.com)
 #### Find JOMENAS on BSc Scan BEP-20: https://bscscan.com/token/0xfdd08d7c5eacfa01e5228153e466e3d5db1d4e9f
 #### Social Media:
 https://twitter.com/JOMENASToken/;
-https://t.me/JOMENAS
+
+https://t.me/JOMENAS/;
 
